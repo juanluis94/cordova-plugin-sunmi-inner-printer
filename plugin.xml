@@ -12,7 +12,7 @@
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Printer">
-        <param name="android-package" value="com.sunmi.innerprinter.Printer"/>
+        <param name="android-package" value="com.sunmi.trans.Printer"/>
         <param name="onload" value="true" />
       </feature>
     </config-file>
